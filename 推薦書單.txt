@@ -1,0 +1,9 @@
+推薦書單
+1. 精通Python-運用簡單的套件進行現代運算
+https://www.books.com.tw/products/0010858475
+2. Python 最強入門 邁向頂尖高手之路 王者歸來
+https://www.books.com.tw/products/0010869590
+3. Python網路爬蟲 大數據擷取, 清洗儲存與分析 王者歸來
+https://www.books.com.tw/products/0010836667
+4. 圖解AI與深度學習的運作機制
+https://www.books.com.tw/products/0010897878
